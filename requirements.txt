@@ -1,6 +1,6 @@
 jupyter==1.0.0
 krippendorff==0.4.0
-numpy==1.18.3
+numpy==1.21
 pandas==1.0.3
 scikit-learn==0.22.2.post1
 torch==1.8.1+cu102
